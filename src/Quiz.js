@@ -4,7 +4,7 @@ export default function App () {
 
     const questions = [
         {
-            questionText: 'First question test 01. Answer 01?',
+            questionText: 'First question test 01. Hello this is a test!',
             quizChoices: [
                 {answerText: 'Answer 01', isCorrect: true},
                 {answerText: 'Answer 02', isCorrect: false},
