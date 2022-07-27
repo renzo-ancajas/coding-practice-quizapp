@@ -13,7 +13,7 @@ export default function App () {
             ], 
         },
         {
-            questionText: 'First question test 02. Answer 02?',
+            questionText: 'First question test 02. TEst 02?',
             quizChoices: [
                 {answerText: 'Answer 01', isCorrect: false},
                 {answerText: 'Answer 02', isCorrect: true},
